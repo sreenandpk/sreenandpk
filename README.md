@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sreenand 👋
 
-<!--
-**sreenandpk/sreenandpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer passionate about building scalable web applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- Python
+- Django
+- Django REST Framework
+- PostgreSQL
+
+### Frontend
+- React
+- Redux
+- Bootstrap
+
+## 🛒 Featured Project – E-Commerce System
+
+Full-stack e-commerce platform with:
+
+- JWT Authentication
+- Product & Category Management
+- Cart & Order Processing
+- Payment Integration
+- Admin Dashboard
+- RESTful API Architecture
