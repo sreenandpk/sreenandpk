@@ -1,23 +1,32 @@
-# Hi, I'm Sreenand 👋
+## Professional Summary
 
-Full-Stack Developer passionate about building scalable web applications.
+Full-Stack Developer with experience designing and building modular, scalable, and secure web applications. Skilled in RESTful API development, role-based systems, and modern frontend architecture.
 
-## 🚀 Tech Stack
+# Sreenand P K
+Full-Stack Software Developer
+
+Full-Stack Developer specializing in scalable web applications using Django, DRF, PostgreSQL, and React.
+
+## Technical Expertise
 
 ### Backend
 - Python
 - Django
 - Django REST Framework
 - PostgreSQL
+- REST API Architecture
+- JWT Authentication
 
 ### Frontend
 - React
-- Redux
 - Bootstrap
+- Framer Motion
+- Radix UI
+- Axios
 
-## 🛒 Featured Project – E-Commerce System
+## Selected Project
 
-Full-stack e-commerce platform with:
+### E-Commerce Platform (Full-Stack)
 
 - JWT Authentication
 - Product & Category Management
