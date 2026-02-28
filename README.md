@@ -25,3 +25,7 @@ Full-stack e-commerce platform with:
 - Payment Integration
 - Admin Dashboard
 - RESTful API Architecture
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/sreenand-p-k-3842b936b/)  
