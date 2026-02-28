@@ -28,4 +28,6 @@ Full-stack e-commerce platform with:
 
 ## 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/sreenand-p-k-3842b936b/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreenand-p-k-3842b936b/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreenandpk)
