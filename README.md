@@ -4,9 +4,7 @@
   Django • DRF • PostgreSQL • React
 </p>
 
-## Professional Summary
-
-Full-Stack Developer with experience designing and building modular, scalable, and secure web applications. Specialized in RESTful API development, role-based systems, and modern frontend architecture using Django, DRF, PostgreSQL, and React.
+Full-Stack Developer building modular, scalable, and secure web applications. Specialized in RESTful APIs, role-based systems, and modern frontend architecture using Django, DRF, PostgreSQL, and React.
 
 ## Technical Expertise
 
