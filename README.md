@@ -24,19 +24,28 @@ Full-Stack Developer with experience designing and building modular, scalable, a
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat)
 
+---
+
 ## Selected Project
 
-### E-Commerce Platform (Full-Stack)
+### 🛒 E-Commerce Platform (Full-Stack)
 
-- JWT Authentication
-- Product & Category Management
-- Cart & Order Processing
-- Payment Integration
-- Admin Dashboard
-- RESTful API Architecture
+- JWT Authentication  
+- Role-Based Admin & User APIs  
+- Revenue Analytics Dashboard  
+- Order Lifecycle (Pending → Shipped → Delivered)  
+- Review After Delivery Validation  
+- Modular RESTful Architecture  
 
-## 🌐 Connect With Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreenand-p-k-3842b936b/)
+## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreenandpk)
+<p>
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
