@@ -11,19 +11,18 @@ Full-Stack Developer with experience designing and building modular, scalable, a
 ## Technical Expertise
 
 ### Backend
-- Python
-- Django
-- Django REST Framework
-- PostgreSQL
-- REST API Architecture
-- JWT Authentication
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-red?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat)
 
 ### Frontend
-- React
-- Bootstrap
-- Framer Motion
-- Radix UI
-- Axios
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat)
 
 ## Selected Project
 
