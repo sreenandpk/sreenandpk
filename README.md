@@ -1,11 +1,9 @@
-## Professional Summary
-
-Full-Stack Developer with experience designing and building modular, scalable, and secure web applications. Skilled in RESTful API development, role-based systems, and modern frontend architecture.
-
 # Sreenand P K
 Full-Stack Software Developer
 
-Full-Stack Developer specializing in scalable web applications using Django, DRF, PostgreSQL, and React.
+## Professional Summary
+
+Full-Stack Developer with experience designing and building modular, scalable, and secure web applications. Specialized in RESTful API development, role-based systems, and modern frontend architecture using Django, DRF, PostgreSQL, and React.
 
 ## Technical Expertise
 
