@@ -1,5 +1,8 @@
-# Sreenand P K
-Full-Stack Software Developer
+<h1 align="left">Sreenand P K</h1>
+<p align="left">
+  <strong>Full-Stack Software Developer</strong><br/>
+  Django • DRF • PostgreSQL • React
+</p>
 
 ## Professional Summary
 
